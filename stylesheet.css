@@ -315,7 +315,7 @@ header nav ul li:not(:nth-child(3)) {
 }
 
 footer {
-  width: 100;
+  width: 100%;
   background-color: #D5D5D5;
   height: 50px;
   display: -webkit-box;
